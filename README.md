@@ -20,7 +20,7 @@ Initializing the graphical user interface (GUI) components.</li>
 <li>Managing the navigation between different screens or panels (e.g., welcome screen, login screen, schedule management screen).</li>
 <li>Handling user interactions and actions (e.g., user registration, login, scheduling tasks).</li>
 <li>Coordinating the functionality provided by various managers (e.g., UserManager, ScheduleManager, NoteManager).</li></ol>
-![2024-05-21](https://github.com/YAMUNA0403/Student_Schedule_Management-System/assets/155550143/d432f4f4-b7f2-4f6d-8d14-55bff0f73178)
+https://github.com/YAMUNA0403/Student_Schedule_Management-System/issues/1#issue-2309659455
 
 
 In summary, MainGUI.java orchestrates the overall user experience and interaction flow within the Student Assistant System.</p>
